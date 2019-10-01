@@ -1,0 +1,14 @@
+# IDE
+## IntelliJ
+/.idea
+
+# node
+/node_modules
+
+## generated files
+#/lib
+#/dist
+
+# private files
+token.json
+credentials.json

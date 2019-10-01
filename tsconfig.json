@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "outDir": "dist",
+    "sourceMap": true,
+    "target": "es2017",
+    "experimentalDecorators": true
+  },
+  "compileOnSave": true,
+  "include": [
+    "src"
+  ]
+}

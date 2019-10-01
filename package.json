@@ -1,0 +1,16 @@
+{
+  "name": "googleapis-docs-lists",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "googleapis": "^43.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.8"
+  }
+}
